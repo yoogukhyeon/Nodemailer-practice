@@ -2,9 +2,9 @@
   "name": "nodejsNodeMailer",
   "version": "1.0.0",
   "description": "NodeMailer Project",
-  "main": "nodemailer.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon nodemailer.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
