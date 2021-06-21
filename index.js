@@ -19,7 +19,7 @@ const port = 3000;
 
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
-const home = require('./routes')
+const home = require('./routes/nodemailer')
 app.use('/', home)
 
 
